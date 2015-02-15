@@ -36,4 +36,8 @@ public class LaundryAssistant extends ActionBarActivity {
 
         return super.onOptionsItemSelected(item);
     }
+
+    public String testStub(){
+        return "Hello Test";
+    }
 }
